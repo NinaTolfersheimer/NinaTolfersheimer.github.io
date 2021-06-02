@@ -7,3 +7,6 @@ While waiting, you may want to check out [my blog](http://raspberrypi/), if you'
 ```python
 from internet import NinaTolfersheimer
 ```
+```C
+#include<NinaTolfersheimer.h>
+```
