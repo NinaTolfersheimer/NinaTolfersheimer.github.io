@@ -1,6 +1,6 @@
 There is currently **one** project to be found here.
 
-* [Notando](https://ninatolfersheimer.github.io/Notando/) – The Open-Source Note Taking And Organizing App. I'm still working on a page for Notando of it's own, which is why I've linked the Notando repository here.
+* [Notando](https://ninatolfersheimer.github.io/Notando/) – The Open-Source Note Taking And Organizing App. 
 
 This may change any minute, so I'd recommend to stay tuned :wink:
 
