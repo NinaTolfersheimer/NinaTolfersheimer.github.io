@@ -28,7 +28,7 @@ While my main languages are Python and C++, I also work (or have worked) with th
 Other hobbys of mine are astronomy and photography, especially astrophotography. You can check out some of my work on Instagram. 
 I enjoy bicycling as well as writing, mostly science fiction and reality.
 
-# Links & Contact
+# Links & Contact (English/German)
 While waiting for new projects to be published, you may want to check out [my GitHub](https://github.com/NinaTolfersheimer/), so you can look for the actual project files. Enjoy...
 
 E-Mail: [nina.tolfersheimer@gmail.com](mailto:nina.tolfersheimer@gmail.com)
