@@ -7,7 +7,7 @@ There are currently **two** projects to be found here:
 * [Notando](https://ninatolfersheimer.github.io/Notando/) – The Open-Source Note Taking And Organizing App. 
 * [Writing](https://ninatolfersheimer.github.io/writing/) – An overview over some of my writing, in German and English.
 
-This may change any minute, so I'd recommend to stay tuned :wink:
+This may change any minute, so I'd recommend to stay tuned 😉
 
 # About me
 I'm a hobby programmer from beautiful Baden-Württemberg, Europe.
