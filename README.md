@@ -11,8 +11,8 @@ This may change any minute, so I'd recommend to stay tuned 😉
 
 # About me
 I'm a hobby programmer from beautiful Baden-Württemberg, Europe.
-While my main languages are Python and C++, I also work (or have worked) with the following languages and concepts:
-* C
+While my main languages are Python and C, I also work (or have worked) with the following languages and concepts:
+* C++
 * Scratch
 * HTML/CSS/JavaScript
 * App Inventor
